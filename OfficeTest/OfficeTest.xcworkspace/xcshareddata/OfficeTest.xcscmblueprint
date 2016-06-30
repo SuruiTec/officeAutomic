@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F7B944DA62F2BB66479B79CBCDA5D2CBDCE914E2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F7B944DA62F2BB66479B79CBCDA5D2CBDCE914E2" : 0,
+    "C3F650E3DCBE27AA6D44C605A3ED5E7EFE3B297E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2B4A6F2D-CFCC-4BCB-8812-C755F50D121D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F7B944DA62F2BB66479B79CBCDA5D2CBDCE914E2" : "OfficeTest\/",
+    "C3F650E3DCBE27AA6D44C605A3ED5E7EFE3B297E" : "OfficeTest\/OfficeTest\/Source\/TheThird\/NSString-MD5\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OfficeTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OfficeTest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/H2CO3\/NSString-MD5.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3F650E3DCBE27AA6D44C605A3ED5E7EFE3B297E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/suruitech\/suruitechlonogy",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7B944DA62F2BB66479B79CBCDA5D2CBDCE914E2"
+    }
+  ]
+}
